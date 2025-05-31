@@ -55,8 +55,11 @@ This segmentation provides actionable insights into where marketing efforts shou
 ## Folder Structure
 📁 customer-segmentation-project/
 ├── **eda.ipynb:** Exploratory Data Analysis including cleaning and preparing the data for modeling
+
 ├── **modeling.ipynb:** Clustering and modeling workflow including K-Means and customer segmentation
+
 ├── **customer_segmentation_data.csv:** Original raw dataset
+
 ├── **cleaned_segmentation_data.csv:** Cleaned and processed dataset used for modeling
 
 
